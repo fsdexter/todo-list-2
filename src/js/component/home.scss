@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+#trash{
+    opacity:0.1;
+    cursor: pointer;
+}
+#trash:hover{
+    opacity:1;
+}
+body{
+    background-color: grey;
+    font-family: 'Roboto Mono', monospace;
+}
+#caixa{
+    background-color: black;
+    color: rgb(33, 248, 4);
+    padding: 15px 0px;
+    margin-left: 27rem;
+}
+li{
+    margin: 5px 0px;
+}
